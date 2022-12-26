@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RAJAS-KAR
+- 👋 Hi, I’m @RAJASEKAR
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...meachine learning
 - 💞️ I’m looking to collaborate on ...Data science project 
